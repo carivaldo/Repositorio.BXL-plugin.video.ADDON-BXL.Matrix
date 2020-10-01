@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.BXL"
        name="[COLOR red][B]ADDON [B][/COLOR] [COLOR white][B]BXL[/B][/COLOR]"
-       version="2.5"
+       version="2.5.2"
        provider-name="CARIVALDO ARAUJO">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -81,7 +81,7 @@
 </addon>
 
 <addon id="Repositorio.BXL"
-       name="[COLOR red][B]Repositorio Oficial [B][/COLOR] [COLOR white][B]BXL[/B][/COLOR]"
+       name="[COLOR red][B]Repositorio Oficial [B][/COLOR] [COLOR blue][B]BXL[/B][/COLOR]"
        version="1.00"
        provider-name="CARIVALDO ARAUJO">
   <requires>
